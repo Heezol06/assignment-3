@@ -1,0 +1,25 @@
+body {
+  font-family: "Noto Sans JP", sans-serif;
+}
+.honda-header-color {
+  background-color: #264653;
+}
+.honda-btn-color {
+  background-color: #e76f51;
+}
+.honda-text-color {
+  color: #e76f51;
+}
+/* Fetured Bikes 2021 */
+.img-dark {
+  filter: grayscale(1);
+}
+.img-dark:hover {
+  filter: none;
+}
+.start-icon-border {
+  border: 1px solid #e76f51;
+}
+.user-img {
+  border-radius: 50%;
+}
